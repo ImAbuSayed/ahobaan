@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ahobaan
+
+This log tracks the cryptographic history and versioning for the song **Ahobaan** (ahobaan).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-10T05:06:34.266242 | `v1` | `2b3ee4f92d9efd5dc42b35ae26706bfff022e150a6c8ac7ecc583e6591f184fe` | `081d4a7b39fb55a5f9ab6b1c34efc857a63b2b9701fb45ae73a8ff87d6f4fd85` | `2026-05-10_ahobaan-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

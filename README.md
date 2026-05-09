@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ahobaan/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Ahobaan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ahobaan/) |
+| **Get License** | [Obtain a Music License for Ahobaan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ahobaan/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2b3ee4f92d9efd5dc42b35ae26706bfff022e150a6c8ac7ecc583e6591f184fe` |
 | **Timestamp** | May 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
